@@ -1,0 +1,143 @@
+T02
+
+Atividade 03 - TCP e UDP: características básicas
+
+Qual das seguintes características é verdadeira para o protocolo TCP?
+(10 Pontos)
+
+
+Não garante a entrega dos pacotes
+
+Oferece um serviço não orientado à conexão
+
+É mais rápido que o UDP
+
+x Oferece retransmissão de pacotes perdidos
+
+Nenhuma das anteriores
+
+2.Qual é a principal vantagem do protocolo UDP em relação ao TCP?
+(10 Pontos)
+
+
+Garantia de entrega de pacotes
+
+Estabelecimento de conexão antes da transmissão
+
+Oferece controle de congestionamento
+
+x Maior rapidez e menor overhead
+
+Nenhuma das anteriores
+
+3.Qual das seguintes aplicações normalmente utiliza o protocolo TCP?
+(10 Pontos)
+
+
+Streaming de vídeo ao vivo
+
+Jogos online
+
+Transmissão de voz sobre IP (VoIP)
+
+x Transferência de arquivos (FTP)
+
+Nenhuma das anteriores
+
+4.Em qual das seguintes situações o protocolo UDP seria mais apropriado que o TCP?
+(10 Pontos)
+
+
+Envio de e-mails
+
+x Streaming de vídeo
+
+Acesso remoto via SSH
+
+Download de arquivos grandes
+
+Nenhuma das anteriores
+
+5.Qual das seguintes é uma característica do TCP?
+(10 Pontos)
+
+
+Não verifica se os pacotes chegaram ao destino
+
+x Garante a entrega dos pacotes na ordem correta
+
+Não estabelece conexão antes de transmitir dados
+
+Opera no modo "não confiável"
+
+Nenhuma das anteriores
+
+6.Qual das seguintes é uma característica do UDP?
+(10 Pontos)
+
+
+Garante a ordem dos pacotes na entrega
+
+Opera no modo orientado à conexão
+
+x Mais adequado para aplicações que exigem baixa latência (menor atraso)
+
+É mais confiável que o TCP
+
+Nenhuma das anteriores
+
+7.O que acontece se um pacote TCP for perdido durante a transmissão?
+(10 Pontos)
+
+
+x O pacote é retransmitido
+
+A conexão é encerrada imediatamente
+
+O pacote é substituído por outro
+
+O pacote é ignorado e a transmissão continua
+
+Nenhuma das anteriores
+
+8.Em uma comunicação usando o protocolo UDP, se um pacote for corrompido durante a transmissão, o que acontece?
+(10 Pontos)
+
+
+O pacote é automaticamente retransmitido pelo UDP
+
+O UDP receptor solicita um novo pacote
+
+x O pacote é simplesmente descartado e não há retransmissão pelo UDP
+
+O UDP destino descarta o pacote e solicita uma retransmissão do pacote
+
+Nenhuma das anteriores
+
+9.Qual dos seguintes serviços de rede utiliza o protocolo UDP por padrão?
+(10 Pontos)
+
+
+HTTP
+
+HTTPS
+
+x DNS
+
+SSH
+
+Nenhuma das anteriores
+
+10.Quais os números de porta padrão usadas para conexões TCP e UDP, respectivamente, para os protocolos HTTP e DNS?
+(10 Pontos)
+
+
+x 80 e 53
+
+80 e 23
+
+53 e 80
+
+23 e 80
+
+Nenhuma das anteriores
